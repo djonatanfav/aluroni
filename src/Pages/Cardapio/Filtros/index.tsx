@@ -1,2 +1,2 @@
-import { Filtros } from "./Filtros"
-export default Filtros
+import { Filtros } from './Filtros';
+export default Filtros;

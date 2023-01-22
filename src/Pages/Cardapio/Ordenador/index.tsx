@@ -1,2 +1,2 @@
-import { Ordenador } from "./Ordenador";
+import { Ordenador } from './Ordenador';
 export default Ordenador;

@@ -1,2 +1,2 @@
-import { Itens } from "./Itens";
+import { Itens } from './Itens';
 export default Itens;

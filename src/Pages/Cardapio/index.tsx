@@ -1,2 +1,2 @@
-import { Cardapio } from "./Cardapio";
+import { Cardapio } from './Cardapio';
 export default Cardapio;
